@@ -8,6 +8,10 @@
 ## Why it stands out: Combines multiple dev-focused APIs into a single productivity dashboard.
 
 
+
+
+# Project structure 
+
 ```
 devdash/
 ├── client/                      # Frontend (React + TypeScript)
